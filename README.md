@@ -19,17 +19,19 @@ A simple and interactive web application to visualize stack operations (Push, Po
 
 ## Live Demo
 
-[Try the Stack Visualizer online](https://stack-visualiser.netlify.app/)
+For live demo click here(https://stack-visualiser.netlify.app/)
 
-## Demo
+## Preview
 
-![Stack Visualizer Screenshot](screenshot.png)
+<img width="1723" height="873" alt="image" src="https://github.com/user-attachments/assets/99e4db77-3251-4b5b-8c25-156d04f020e0" />
+<img width="1641" height="877" alt="image" src="https://github.com/user-attachments/assets/c7fe4903-f7a8-4cc9-9f35-5568f6aeee4d" />
+<img width="1743" height="875" alt="image" src="https://github.com/user-attachments/assets/b9669885-8733-4c07-b199-89f2b2e71366" />
 
 ## Getting Started
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/stack-visualiser.git
+   git clone https://github.com/CodeHive08/Stack-Visualizer.git
    cd stack-visualiser
    ```
 2. **Open `index.html` in your browser.**
